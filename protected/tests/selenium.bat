@@ -1,0 +1,1 @@
+java -Dwebdriver.ie.driver=msedgedriver.exe -jar selenium-server-standalone-2.45.0.jar
