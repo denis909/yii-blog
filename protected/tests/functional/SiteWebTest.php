@@ -1,6 +1,6 @@
 <?php
 
-class SiteTest extends WebTestCase
+class SiteWebTest extends WebTestCase
 {
 	public function testContact()
 	{

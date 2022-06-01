@@ -1,6 +1,6 @@
 <?php
 
-class PostTest extends WebTestCase
+class PostWebTest extends WebTestCase
 {
 	/**
 	 * We use the 'Post' only for this test.
